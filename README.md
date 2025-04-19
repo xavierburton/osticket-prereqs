@@ -21,6 +21,6 @@ osTicket Setup.
 My osTicket.
 ![IMG_2585](https://github.com/user-attachments/assets/59412592-3b93-4f6e-8e24-27eb222cbed2)
 
-
+My Virtual machines within Azure.
 ![IMG_2586](https://github.com/user-attachments/assets/f6d4e61a-6983-4ba6-8dd6-f182249f633e)
 
