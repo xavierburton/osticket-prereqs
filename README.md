@@ -72,6 +72,20 @@ Instructions: "Next, Agree, Next, Click Typical, Install, Yes, Launch, Yes, Next
 ![IMG_2616](https://github.com/user-attachments/assets/bd2f4476-4c5b-4bc5-9dd3-dce855f21b39)
 ![IMG_2617](https://github.com/user-attachments/assets/25fcecae-5ba0-4730-9801-c9378e1e8fd8)
 
+Next open IIS and run as an administrator 
+![IMG_2618](https://github.com/user-attachments/assets/1912ca83-47f2-48db-95a6-2bd6b2257d1d)
+
+From there Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe).
+Instructions: Open PHP Manager, register new php version, click 3 dots and browse to Php folder in c drive. double click php folder and double click "php-cgi" application. click "Ok'
+![IMG_2619](https://github.com/user-attachments/assets/08e86456-a1e5-4f3e-93b2-41251694cb80)
+![IMG_2620](https://github.com/user-attachments/assets/60995eb1-1aa0-4014-a6aa-341eecd4a900)
+![IMG_2621](https://github.com/user-attachments/assets/4b10c873-5825-484b-98a6-ce0d87005865)
+
+
+After Reload IIS (Open IIS, Stop and Start the server)
+
+
+
 
 
 
