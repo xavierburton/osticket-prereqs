@@ -36,6 +36,9 @@ Next Enable Internet Information Servies(IIS) As well as CGI Through Windows Con
 ![IMG_2602](https://github.com/user-attachments/assets/76ec9390-2660-464f-a5ef-7c0ea3a976e6)
 ![IMG_2599](https://github.com/user-attachments/assets/0020cf56-4734-4b61-b15b-605bce14e50e)
 
+Next From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+
+
 
 
 
