@@ -61,6 +61,17 @@ Next From the “osTicket-Installation-Files” folder, unzip (Extract All) PHP 
 ![IMG_2611](https://github.com/user-attachments/assets/8451a901-5d62-4439-a7e8-f8ac0422add6)
 ![IMG_2612](https://github.com/user-attachments/assets/4eadd9e3-5fe6-49d0-98b1-234f656e6eb3)
 
+Next From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
+Instructions: "Agree, Install, close"
+![IMG_2613](https://github.com/user-attachments/assets/9fe501d4-0b34-4ad1-8b92-5afcd3e41501)
+![IMG_2615](https://github.com/user-attachments/assets/fdcdda5b-878a-4890-b43b-2c8e15b6ff9e)
+
+From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+
+
+
+
+
 
 
 
