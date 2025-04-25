@@ -56,7 +56,12 @@ Go to C drive in files and make new folder called "PHP"
 ![IMG_2609](https://github.com/user-attachments/assets/3352db1f-af30-4192-917a-f58c2107f4c6)
 
 
-Next From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder (The folder we just created.)
+Next From the “osTicket-Installation-Files” folder, unzip (Extract All) PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder (The folder we just created.)
+![IMG_2610](https://github.com/user-attachments/assets/464f1f2f-6080-41c7-a20a-00714689118d)
+![IMG_2611](https://github.com/user-attachments/assets/8451a901-5d62-4439-a7e8-f8ac0422add6)
+![IMG_2612](https://github.com/user-attachments/assets/4eadd9e3-5fe6-49d0-98b1-234f656e6eb3)
+
+
 
 
 
