@@ -67,6 +67,13 @@ Instructions: "Agree, Install, close"
 ![IMG_2615](https://github.com/user-attachments/assets/fdcdda5b-878a-4890-b43b-2c8e15b6ff9e)
 
 From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+Instructions: "Next, Agree, Next, Click Typical, Install, Yes, Launch, Yes, Next, Choose Standard Configuration, Next, Next, This Part is important, Type in a rememberable password for yourself (write it down) and type into both boxes. Next, Excecute, and then Finish.
+
+![IMG_2616](https://github.com/user-attachments/assets/bd2f4476-4c5b-4bc5-9dd3-dce855f21b39)
+![IMG_2617](https://github.com/user-attachments/assets/25fcecae-5ba0-4730-9801-c9378e1e8fd8)
+
+
+
 
 
 
