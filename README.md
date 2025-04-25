@@ -37,6 +37,28 @@ Next Enable Internet Information Servies(IIS) As well as CGI Through Windows Con
 ![IMG_2599](https://github.com/user-attachments/assets/0020cf56-4734-4b61-b15b-605bce14e50e)
 
 Next From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+![IMG_2603](https://github.com/user-attachments/assets/fb0c075e-bb62-496e-b1dd-2a2942bc30ba)
+![IMG_2604](https://github.com/user-attachments/assets/ea08482a-b6a8-47d5-a4fb-671a3a32b6d2)
+
+
+Instructions "Next, Agree, Next Next Close."
+
+From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
+![IMG_2603](https://github.com/user-attachments/assets/32d527d0-b1be-44d7-b0ef-305a88f729ef)
+![IMG_2605](https://github.com/user-attachments/assets/f226a490-fdba-43d6-a267-ede6bb8f312b)
+![IMG_2606](https://github.com/user-attachments/assets/bf8930ab-731f-4a5d-b23b-a3ed4f2866fa)
+
+
+Instructions "Install, Yes, Next, Close"
+
+Next Create the directory C:\PHP
+Go to C drive in files and make new folder called "PHP"
+![IMG_2609](https://github.com/user-attachments/assets/3352db1f-af30-4192-917a-f58c2107f4c6)
+
+
+Next From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder (The folder we just created.)
+
+
 
 
 
