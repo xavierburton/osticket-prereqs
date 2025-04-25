@@ -10,6 +10,10 @@
 - Remote Desktop
 - Internet Information Services (IIS)
 
+<h2>How To Install OsTicket Youtube Video </h2>
+
+- https://youtu.be/pKBDk7v1zmg?si=HbDsgsbm9epaWzKT
+
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
