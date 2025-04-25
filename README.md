@@ -19,7 +19,7 @@
 - Windows 10</b> (21H2)
 
 
-<h2>osTicket Setup/ Step By Step Pictures and Explanation. </h2>
+<h2>osTicket Setup/ Step By Step Pictures and Instructions. </h2>
 
 Create an Azure Virtual Machine Windows 10, 4 vCPUs
 ![IMG_2596](https://github.com/user-attachments/assets/695c7717-157f-423f-9935-a2f91e5b6584)
