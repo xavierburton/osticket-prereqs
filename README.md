@@ -84,6 +84,21 @@ Instructions: Open PHP Manager, register new php version, click 3 dots and brows
 
 After Reload IIS (Open IIS, Stop and Start the server)
 
+Next install osTicket v1.15.8
+From the “osTicket-Installation-Files” folder, extract all “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
+Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
+
+![IMG_2639](https://github.com/user-attachments/assets/59ad6806-6841-4877-b763-88cd21dab396)
+![IMG_2642](https://github.com/user-attachments/assets/1b149dbe-a44a-416b-81fe-d55c79336d01)
+![IMG_2643](https://github.com/user-attachments/assets/aceaf2d5-5e73-4bf8-97e3-e3480003cfc8)
+
+Once the copying is complete, rename the new "upload" folder to "osTicket"
+![IMG_2645](https://github.com/user-attachments/assets/5f47d857-c219-4dea-8f10-4ba578b39014)
+
+Reload IIS (Open IIS, Stop and Start the server) once again.
+![IMG_2646](https://github.com/user-attachments/assets/7b67aabb-e4a3-4eb2-b0b8-60aec128e965)
+
+
 
 
 
